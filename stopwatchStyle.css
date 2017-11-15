@@ -1,3 +1,23 @@
-body {
-    background-color: blue;
+#elapsedTime {
+    margin: 1rem 0.2rem;
+}
+
+.button {
+    background-color: darkgray;
+    border: 2px solid dimgrey;
+    padding: 0.5rem 1rem;
+    margin: 0.2rem;
+}
+
+.button:hover {
+    background-color: deepskyblue;
+}
+
+.subtitle {
+    margin-top: 1rem;
+    font-size: 1.5rem;
+}
+
+p {
+    margin: 0.2rem;
 }
